@@ -11,7 +11,17 @@ Research focus: simulation-based optimization, dimensionality reduction, multi-f
 - Simulation-Based Design Optimization  
 - Surrogate & Multi-Fidelity Modeling  
 - Design-Space Dimensionality Reduction  
-- AI for Marine & Hydrodynamic Systems  
+- AI for Marine & Hydrodynamic Systems
+
+---
+
+### 🧰 Software
+
+- PME-toolkit  
+  Reproducible framework for design-space dimensionality reduction in parametric shape optimization.  
+  PyPI: https://pypi.org/project/pme-toolkit/  
+  GitHub: https://github.com/cnr-inm-mao/pme-toolkit  
+  Zenodo: https://doi.org/10.5281/zenodo.18962859
 
 ---
 
