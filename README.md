@@ -24,7 +24,7 @@ Research focus: simulation-based optimization, dimensionality reduction, multi-f
   Zenodo: [https://doi.org/10.5281/zenodo.18962859](https://doi.org/10.5281/zenodo.18962859)
 
 - HullProd
-  Opensource python tool for geometry-based producibility screening
+  Opensource python tool for geometry-based producibility screening.
   PyPI: [https://pypi.org/project/hullprod/](https://pypi.org/project/hullprod/)
   GitHub: [https://github.com/cnr-inm-mao/hullprod](https://github.com/cnr-inm-mao/hullprod)
   Zenodo: [https://zenodo.org/records/22288105](https://doi.org/10.5281/zenodo.22287356)
