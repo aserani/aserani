@@ -23,13 +23,13 @@ Research focus: simulation-based optimization, dimensionality reduction, multi-f
   GitHub: [https://github.com/cnr-inm-mao/pme-toolkit](https://github.com/cnr-inm-mao/pme-toolkit)  
   Zenodo: [https://doi.org/10.5281/zenodo.18962859](https://doi.org/10.5281/zenodo.18962859)
 
-- PME-toolkit  
-  Reproducible framework for design-space dimensionality reduction in parametric shape optimization.  
+- HullProd
+  Opensource python tool for geometry-based producibility screening.
   PyPI: [https://pypi.org/project/pme-toolkit/](https://pypi.org/project/pme-toolkit/)  
   GitHub: [https://github.com/cnr-inm-mao/pme-toolkit](https://github.com/cnr-inm-mao/pme-toolkit)  
   Zenodo: [https://doi.org/10.5281/zenodo.18962859](https://doi.org/10.5281/zenodo.18962859)
-- HullProd
-  Opensource python tool for geometry-based producibility screening.
+- 
+ 
   PyPI: [https://pypi.org/project/hullprod/](https://pypi.org/project/hullprod/)
   GitHub: [https://github.com/cnr-inm-mao/hullprod](https://github.com/cnr-inm-mao/hullprod)
   Zenodo: [https://zenodo.org/records/22288105](https://doi.org/10.5281/zenodo.22287356)
